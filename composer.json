@@ -13,8 +13,8 @@
 	],
 	"support":{
 		"email":"contao@cliff-parnitzky.de",
-		"issues":"https://github.com/cliffparnitzky/TinyMceBundleTextColor/issues",
-		"source":"https://github.com/cliffparnitzky/TinyMceBundleTextColor"
+		"issues":"https://github.com/cliffparnitzky/TinyMceBundleClassic/issues",
+		"source":"https://github.com/cliffparnitzky/TinyMceBundleClassic"
 	},
 	"require":{
 		"php":">=5.3",
