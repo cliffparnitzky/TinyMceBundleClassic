@@ -5,7 +5,7 @@
 Composer package: TinyMceBundleClassic
 ======================================
 
-Installs the TinyMCE plugin loader and the missing default plugins known from TinyMCE 3 (anchor, colorpicker, emoticons, textcolor).
+Installs the TinyMCE plugin loader and the missing default plugins known from TinyMCE 3 (anchor, colorpicker, emoticons, textcolor) and applies some settings via plugins (image enhancement, lightbox links).
 
 For more information see [TinyMcePluginLoader](https://github.com/cliffparnitzky/TinyMcePluginLoader).
 
