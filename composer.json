@@ -25,6 +25,7 @@
 		"cliffparnitzky/tiny-mce-colorpicker":">=1.0.0",
 		"cliffparnitzky/tiny-mce-emoticons":">=1.0.0",
 		"cliffparnitzky/tiny-mce-image-enhancement":">=1.0.0",
+		"cliffparnitzky/tiny-mce-link-lightbox":">=1.0.0",
 		"cliffparnitzky/tiny-mce-text-color":">=1.0.0"
 	},
 	"conflict": {
@@ -32,7 +33,7 @@
 	},
 	"extra":{
 		"branch-alias": {
-			"dev-tinymce4": "1.1.x-dev"
+			"dev-tinymce4": "1.2.x-dev"
 		}
 	}
 }
